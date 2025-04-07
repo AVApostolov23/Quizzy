@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-<a href="file:///D:/New%20folder%20(4)/logo1-Photoroom.png" alt="Logo_AlgoStax" alt="Logo" width=250px /></a>
 <div align="center">
 <p>🧸 All ages app</p>
 <p>📚 Innovative educational approach</p>
